@@ -119,7 +119,7 @@ https://oreilly-ds-report.s3.amazonaws.com/Care_and_Feeding_of_Data_Scientists.p
   Type Aとは、"A"nalysisとしてマッピングされていて、今回の場合は、オペレーショナルデータサイエンティストである。
   Type Bとは、"B"uidingであり、今回の場合は、それ以外のデータサイエンティストを意味します。
 
-### The Structure of Scientic Teams
+### The Structure of Scientist Teams
   多くの企業は、データサイエンスチームを持つべきであることは知っているが、
   ほとんどが、チームがすべきことや、どのように他の組織とインタラクションをすべきか、明確なコンセンサスがない。
 
