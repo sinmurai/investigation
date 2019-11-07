@@ -1,6 +1,7 @@
 ### 概要
 本文は、以下のリンク先にある文献を翻訳したものである。
 内容は、データサイエンティストチームやデータサイエンティスト自身のマネジメントについて記載されている。
+
 *引用文献*
 https://oreilly-ds-report.s3.amazonaws.com/Care_and_Feeding_of_Data_Scientists.pdf
 
